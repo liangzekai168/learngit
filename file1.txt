@@ -1,2 +1,4 @@
 aaa
 add one line to file1
+add tow line to file1
+add 3 line to file1
